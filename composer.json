@@ -1,5 +1,5 @@
 {
-    "name": "comquer/domain-integration",
+    "name": "blake83/domain-integration",
     "description": "Interfaces and value objects for domain integration",
     "type": "library",
     "autoload": {
